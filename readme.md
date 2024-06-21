@@ -20,7 +20,10 @@ Ensure you have Python 3.x installed. You can download Python from [python.org](
 
 ### Steps
 
-1. Clone the repository or download the `app.py` script.
+1. Clone the repository or download:
+   ```bash
+   git clone https://github.com/Harjinder4/Bulk-IP-Translator.git
+   ```
 2. Create a virtual environment (recommended) and activate it:
     ```bash
     python -m venv venv
