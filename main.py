@@ -25,7 +25,7 @@ def requests_retry_session(retries=3, backoff_factor=0.3, status_forcelist=(500,
     return session
 
 def lookup_ip(ip):
-    """Looks up the geolocation of a single IP address using ip-api.com."""
+    """Using ip-api.com."""
     base_url = f"http://ip-api.com/json/{ip}"
     try:
         response = requests_retry_session().get(base_url, verify=certifi.where())
