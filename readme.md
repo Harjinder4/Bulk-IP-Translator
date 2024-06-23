@@ -42,10 +42,10 @@ Ensure you have Python 3.x installed. You can download Python from [python.org](
 ### Requirements
 
 The required packages are listed in `requirements.txt`:
-Flask==2.0.1
+Flask==3.0.1
 requests==2.25.1
 certifi==2021.5.30
-
+werkzeug==3.0.3
 
 ## Usage
 
