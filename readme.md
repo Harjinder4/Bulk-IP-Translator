@@ -77,4 +77,4 @@ werkzeug==3.0.3
 
 ### Note
 
-- This project was made while I was an intern (Cyber Warrior) in Gurugram under Haryana Police. 
+- This project was made while I was an intern (Cyber Warrior) at Gurugram police Cyber Security Summer Internship 2024
