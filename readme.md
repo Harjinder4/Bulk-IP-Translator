@@ -23,6 +23,7 @@ Ensure you have Python 3.x installed. You can download Python from [python.org](
 1. Clone the repository or download:
    ```bash
    git clone https://github.com/Harjinder4/Bulk-IP-Translator.git
+   cd Bulk-IP-Translator
    ```
 2. Create a virtual environment (recommended) and activate it:
     ```bash
@@ -35,7 +36,7 @@ Ensure you have Python 3.x installed. You can download Python from [python.org](
     ```
 4. Run the application:
     ```bash
-    python app.py
+    python main.py
     ```
 
 ### Requirements
